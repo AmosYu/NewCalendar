@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         view = (TextViewBorder) findViewById(R.id.state1);
         view = (TextViewBorder) findViewById(R.id.state1);
         view = (TextViewBorder) findViewById(R.id.state1);
+        view = (TextViewBorder) findViewById(R.id.state1);
         view.setBorderColor(getResources().getColor(R.color.app_red_delete_color));
         view.setOnClickListener(new View.OnClickListener() {
             @Override
