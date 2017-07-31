@@ -19,5 +19,34 @@ public class MainActivity extends AppCompatActivity {
                 view.setBorderColor(getResources().getColor(R.color.buttong_check_color));
             }
         });
+
+
+
+        view = (TextViewBorder) findViewById(R.id.state1);
+        view.setBorderColor(getResources().getColor(R.color.app_red_delete_color));
+        view.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                view.setBorderColor(getResources().getColor(R.color.buttong_check_color));
+            }
+        });
+
+        view = (TextViewBorder) findViewById(R.id.state1);
+        view.setBorderColor(getResources().getColor(R.color.app_red_delete_color));
+        view.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                view.setBorderColor(getResources().getColor(R.color.buttong_check_color));
+            }
+        });
+
+        view = (TextViewBorder) findViewById(R.id.state1);
+        view.setBorderColor(getResources().getColor(R.color.app_red_delete_color));
+        view.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                view.setBorderColor(getResources().getColor(R.color.buttong_check_color));
+            }
+        });
     }
 }
