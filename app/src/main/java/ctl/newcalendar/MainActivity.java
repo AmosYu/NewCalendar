@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         String s3 = "123";
         String s4 = "123";
         int i = 3+4;
+
         String s1 = "majiajue";
         view = (TextViewBorder) findViewById(R.id.state1);
         view = (TextViewBorder) findViewById(R.id.state1);
@@ -30,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
                 view.setBorderColor(getResources().getColor(R.color.buttong_check_color));
             }
         });
+
+        String  s22 = "sdfsdfdsfdssd";
+        String  s32 = "wererrw";
 
     }
 }
