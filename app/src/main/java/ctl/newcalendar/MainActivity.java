@@ -14,6 +14,10 @@ public class MainActivity extends AppCompatActivity {
 
 
         view = (TextViewBorder) findViewById(R.id.state1);
+        String s = "123";
+        String s2 = "123";
+        String s3 = "123";
+        String s4 = "123";
         view = (TextViewBorder) findViewById(R.id.state1);
         view = (TextViewBorder) findViewById(R.id.state1);
         view = (TextViewBorder) findViewById(R.id.state1);
