@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
                 view.setBorderColor(getResources().getColor(R.color.buttong_check_color));
             }
         });
+        int sssss = 87+87;
 
         String  s22 = "sdfsdfdsfdssd";
         String  s32 = "wererrw";
